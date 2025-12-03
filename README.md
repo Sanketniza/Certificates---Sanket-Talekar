@@ -6,8 +6,8 @@ A collection of my professional certificates and course completions from LinkedI
 
 ## Contact
 
-- **Email**: [sanket.talekar@example.com](mailto:sankettalekar896@gmail.com)
-- **LinkedIn**: [Sanket Talekar](https://www.linkedin.com/in/sanket-talekar/)
+- **Email**: [sankettalekar896@gmail.com](mailto:sankettalekar896@gmail.com)
+- **LinkedIn**: [Sanket Talekar](https://www.linkedin.com/in/sanket-talekar-94087a263)
 
 ## Verification
 
