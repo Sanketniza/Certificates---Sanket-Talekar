@@ -17,9 +17,9 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
 
 | # | Course Title | Provider | Completed On | Duration | Top Skills | Certificate ID | View |
 |---|---|---|---|---|---|---|---|
-| 1 | CSS Essential Training | LinkedIn Learning | 2024 | Unknown | CSS, Web Design | css-essential-training | [View](Assets/My%20LinkedIn/CSS%20Essential%20Training.png) |
+| 1 | CSS Essential Training | LinkedIn Learning | 2024 | 53 minutes | CSS, Web Design | css-essential-training | [View](Assets/My%20LinkedIn/CSS%20Essential%20Training.png) |
 | 2 | Copilot | LinkedIn Learning | 2024 | Unknown | AI, Copilot | copilot | [View](Assets/My%20LinkedIn/Copilot.png) |
-| 3 | Full Stack Web Developer | LinkedIn Learning | 2024 | Unknown | Full Stack, Web Development | full-stack-web-developer | [View](Assets/My%20LinkedIn/Full%20Stack%20Web%20Developer.png) |
+| 3 | Full Stack Web Developer | LinkedIn Learning | 2024 | 29 hours 53 minutes | Full Stack, Web Development | full-stack-web-developer | [View](Assets/My%20LinkedIn/Full%20Stack%20Web%20Developer.png) |
 | 4 | Gen AI | LinkedIn Learning | 2024 | Unknown | Generative AI, Artificial Intelligence | gen-ai | [View](Assets/My%20LinkedIn/Gen%20AI.png) |
 | 5 | Github Action by Github | LinkedIn Learning | 2024 | Unknown | GitHub Actions, CI/CD | github-action-by-github | [View](Assets/My%20LinkedIn/Github%20Action%20by%20Github.png) |
 | 6 | Introduction to AI | LinkedIn Learning | 2024 | Unknown | AI, Machine Learning | introduction-to-ai | [View](Assets/My%20LinkedIn/Introduction%20to%20AI.png) |
