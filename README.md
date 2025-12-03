@@ -19,7 +19,6 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
 |---|---|---|---|---|---|---|---|
 | 1 | CSS Essential Training | LinkedIn Learning | 2024 | 5 hours 26 minutes | CSS, Web Design | css-essential-training | [View](Assets/My%20LinkedIn/CSS%20Essential%20Training.png) |
 | 2 | Copilot | LinkedIn Learning | 2024 | 35 minutes | AI, Copilot | copilot | [View](Assets/My%20LinkedIn/Copilot.png) |
-
 | 3 | Full Stack Web Developer | LinkedIn Learning | 2024 | 29 hours 53 minutes | Full Stack, Web Development | full-stack-web-developer | [View](Assets/My%20LinkedIn/Full%20Stack%20Web%20Developer.png) |
 | 4 | Gen AI | LinkedIn Learning | 2024 | 2 hours 5 minutes | Generative AI, Artificial Intelligence | gen-ai | [View](Assets/My%20LinkedIn/Gen%20AI.png) |
 | 5 | Github Action by Github | LinkedIn Learning | 2024 | 2 hours 5 minutes | GitHub Actions, CI/CD | github-action-by-github | [View](Assets/My%20LinkedIn/Github%20Action%20by%20Github.png) |
