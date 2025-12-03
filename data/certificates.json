@@ -1,0 +1,218 @@
+[
+  {
+    "id": "css-essential-training",
+    "title": "CSS Essential Training",
+    "provider": "LinkedIn Learning",
+    "date": "2024",
+    "duration": "Unknown",
+    "skills": ["CSS", "Web Design"],
+    "filename": "Assets/My LinkedIn/CSS Essential Training.png"
+  },
+  {
+    "id": "copilot",
+    "title": "Copilot",
+    "provider": "LinkedIn Learning",
+    "date": "2024",
+    "duration": "Unknown",
+    "skills": ["AI", "Copilot"],
+    "filename": "Assets/My LinkedIn/Copilot.png"
+  },
+  {
+    "id": "full-stack-web-developer",
+    "title": "Full Stack Web Developer",
+    "provider": "LinkedIn Learning",
+    "date": "2024",
+    "duration": "Unknown",
+    "skills": ["Full Stack", "Web Development"],
+    "filename": "Assets/My LinkedIn/Full Stack Web Developer.png"
+  },
+  {
+    "id": "gen-ai",
+    "title": "Gen AI",
+    "provider": "LinkedIn Learning",
+    "date": "2024",
+    "duration": "Unknown",
+    "skills": ["Generative AI", "Artificial Intelligence"],
+    "filename": "Assets/My LinkedIn/Gen AI.png"
+  },
+  {
+    "id": "github-action-by-github",
+    "title": "Github Action by Github",
+    "provider": "LinkedIn Learning",
+    "date": "2024",
+    "duration": "Unknown",
+    "skills": ["GitHub Actions", "CI/CD"],
+    "filename": "Assets/My LinkedIn/Github Action by Github.png"
+  },
+  {
+    "id": "introduction-to-ai",
+    "title": "Introduction to AI",
+    "provider": "LinkedIn Learning",
+    "date": "2024",
+    "duration": "Unknown",
+    "skills": ["AI", "Machine Learning"],
+    "filename": "Assets/My LinkedIn/Introduction to AI.png"
+  },
+  {
+    "id": "javascript-essential-training",
+    "title": "JavaScript Essential Training",
+    "provider": "LinkedIn Learning",
+    "date": "2024",
+    "duration": "Unknown",
+    "skills": ["JavaScript", "Web Development"],
+    "filename": "Assets/My LinkedIn/JavaScript Essential Training.png"
+  },
+  {
+    "id": "learning-full-stack-javascript-development-mongodb-node-and-react",
+    "title": "Learning Full Stack JavaScript Development MongoDB Node and React",
+    "provider": "LinkedIn Learning",
+    "date": "2024",
+    "duration": "Unknown",
+    "skills": ["MongoDB", "Node.js", "React"],
+    "filename": "Assets/My LinkedIn/Learning Full Stack JavaScript Development MongoDB Node  and React.png"
+  },
+  {
+    "id": "node-js-essential-training",
+    "title": "Node.js Essential Training",
+    "provider": "LinkedIn Learning",
+    "date": "2024",
+    "duration": "Unknown",
+    "skills": ["Node.js", "Backend"],
+    "filename": "Assets/My LinkedIn/Node.js Essential Training.png"
+  },
+  {
+    "id": "practical-github-action",
+    "title": "Practical GitHub Action",
+    "provider": "LinkedIn Learning",
+    "date": "2024",
+    "duration": "Unknown",
+    "skills": ["GitHub Actions", "DevOps"],
+    "filename": "Assets/My LinkedIn/Practical GitHub Action.png"
+  },
+  {
+    "id": "practical-github-copilot",
+    "title": "Practical GitHub Copilot",
+    "provider": "LinkedIn Learning",
+    "date": "2024",
+    "duration": "Unknown",
+    "skills": ["GitHub Copilot", "AI Pair Programming"],
+    "filename": "Assets/My LinkedIn/Practical GitHub Copilot.png"
+  },
+  {
+    "id": "practical-github-project-management-and-collaboration",
+    "title": "Practical GitHub Project Management and Collaboration",
+    "provider": "LinkedIn Learning",
+    "date": "2024",
+    "duration": "Unknown",
+    "skills": ["GitHub", "Project Management"],
+    "filename": "Assets/My LinkedIn/Practical GitHub Project Management and Collaboration.png"
+  },
+  {
+    "id": "project-management-by-microsoft",
+    "title": "Project Management by Microsoft",
+    "provider": "LinkedIn Learning",
+    "date": "2024",
+    "duration": "Unknown",
+    "skills": ["Project Management", "Microsoft"],
+    "filename": "Assets/My LinkedIn/Project Management by Microsoft.png"
+  },
+  {
+    "id": "rest-full-api",
+    "title": "REST Full API",
+    "provider": "LinkedIn Learning",
+    "date": "2024",
+    "duration": "Unknown",
+    "skills": ["REST API", "Web Services"],
+    "filename": "Assets/My LinkedIn/REST Full API.png"
+  },
+  {
+    "id": "react",
+    "title": "React",
+    "provider": "LinkedIn Learning",
+    "date": "2024",
+    "duration": "Unknown",
+    "skills": ["React", "Frontend"],
+    "filename": "Assets/My LinkedIn/React.png"
+  },
+  {
+    "id": "software-developer",
+    "title": "Software Developer",
+    "provider": "LinkedIn Learning",
+    "date": "2024",
+    "duration": "Unknown",
+    "skills": ["Software Development", "Engineering"],
+    "filename": "Assets/My LinkedIn/Software Developer.png"
+  },
+  {
+    "id": "typescript",
+    "title": "TypeScript",
+    "provider": "LinkedIn Learning",
+    "date": "2024",
+    "duration": "Unknown",
+    "skills": ["TypeScript", "JavaScript"],
+    "filename": "Assets/My LinkedIn/TypeScript.png"
+  },
+  {
+    "id": "hacking-course-completion-certificate",
+    "title": "Hacking Course Completion Certificate",
+    "provider": "Other",
+    "date": "Unknown",
+    "duration": "Unknown",
+    "skills": ["Hacking", "Security"],
+    "filename": "Assets/Others/Hacking Course Completion Certificate.pdf"
+  },
+  {
+    "id": "iit-internship",
+    "title": "IIT Internship",
+    "provider": "IIT",
+    "date": "Unknown",
+    "duration": "Unknown",
+    "skills": ["Internship"],
+    "filename": "Assets/Others/IIT Internship .jpg"
+  },
+  {
+    "id": "mysql",
+    "title": "MYSQL",
+    "provider": "Other",
+    "date": "Unknown",
+    "duration": "Unknown",
+    "skills": ["MySQL", "Database"],
+    "filename": "Assets/Others/MYSQL.pdf"
+  },
+  {
+    "id": "python-certificate",
+    "title": "Python certificate",
+    "provider": "Other",
+    "date": "Unknown",
+    "duration": "Unknown",
+    "skills": ["Python"],
+    "filename": "Assets/Others/Python certificate.pdf"
+  },
+  {
+    "id": "python",
+    "title": "Python",
+    "provider": "Other",
+    "date": "Unknown",
+    "duration": "Unknown",
+    "skills": ["Python"],
+    "filename": "Assets/Others/Python.jpg"
+  },
+  {
+    "id": "react-other",
+    "title": "React (Other)",
+    "provider": "Other",
+    "date": "Unknown",
+    "duration": "Unknown",
+    "skills": ["React"],
+    "filename": "Assets/Others/React.pdf"
+  },
+  {
+    "id": "python-2",
+    "title": "python 2",
+    "provider": "Other",
+    "date": "Unknown",
+    "duration": "Unknown",
+    "skills": ["Python"],
+    "filename": "Assets/Others/python 2.pdf"
+  }
+]
