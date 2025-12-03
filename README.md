@@ -17,12 +17,13 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
 
 | # | Course Title | Provider | Completed On | Duration | Top Skills | Certificate ID | View |
 |---|---|---|---|---|---|---|---|
-| 1 | CSS Essential Training | LinkedIn Learning | 2024 | 53 minutes | CSS, Web Design | css-essential-training | [View](Assets/My%20LinkedIn/CSS%20Essential%20Training.png) |
-| 2 | Copilot | LinkedIn Learning | 2024 | Unknown | AI, Copilot | copilot | [View](Assets/My%20LinkedIn/Copilot.png) |
+| 1 | CSS Essential Training | LinkedIn Learning | 2024 | 5 hours 26 minutes | CSS, Web Design | css-essential-training | [View](Assets/My%20LinkedIn/CSS%20Essential%20Training.png) |
+| 2 | Copilot | LinkedIn Learning | 2024 | 35 minutes | AI, Copilot | copilot | [View](Assets/My%20LinkedIn/Copilot.png) |
+
 | 3 | Full Stack Web Developer | LinkedIn Learning | 2024 | 29 hours 53 minutes | Full Stack, Web Development | full-stack-web-developer | [View](Assets/My%20LinkedIn/Full%20Stack%20Web%20Developer.png) |
-| 4 | Gen AI | LinkedIn Learning | 2024 | Unknown | Generative AI, Artificial Intelligence | gen-ai | [View](Assets/My%20LinkedIn/Gen%20AI.png) |
-| 5 | Github Action by Github | LinkedIn Learning | 2024 | Unknown | GitHub Actions, CI/CD | github-action-by-github | [View](Assets/My%20LinkedIn/Github%20Action%20by%20Github.png) |
-| 6 | Introduction to AI | LinkedIn Learning | 2024 | Unknown | AI, Machine Learning | introduction-to-ai | [View](Assets/My%20LinkedIn/Introduction%20to%20AI.png) |
+| 4 | Gen AI | LinkedIn Learning | 2024 | 2 hours 5 minutes | Generative AI, Artificial Intelligence | gen-ai | [View](Assets/My%20LinkedIn/Gen%20AI.png) |
+| 5 | Github Action by Github | LinkedIn Learning | 2024 | 2 hours 5 minutes | GitHub Actions, CI/CD | github-action-by-github | [View](Assets/My%20LinkedIn/Github%20Action%20by%20Github.png) |
+| 6 | Introduction to AI | LinkedIn Learning | 2024 | 2 hours 5 minutes | AI, Machine Learning | introduction-to-ai | [View](Assets/My%20LinkedIn/Introduction%20to%20AI.png) |
 | 7 | JavaScript Essential Training | LinkedIn Learning | 2024 | Unknown | JavaScript, Web Development | javascript-essential-training | [View](Assets/My%20LinkedIn/JavaScript%20Essential%20Training.png) |
 | 8 | Learning Full Stack JavaScript Development MongoDB Node and React | LinkedIn Learning | 2024 | Unknown | MongoDB, Node.js, React | learning-full-stack-javascript-development-mongodb-node-and-react | [View](Assets/My%20LinkedIn/Learning%20Full%20Stack%20JavaScript%20Development%20MongoDB%20Node%20%20and%20React.png) |
 | 9 | Node.js Essential Training | LinkedIn Learning | 2024 | Unknown | Node.js, Backend | node-js-essential-training | [View](Assets/My%20LinkedIn/Node.js%20Essential%20Training.png) |
