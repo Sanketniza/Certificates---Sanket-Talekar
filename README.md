@@ -11,7 +11,7 @@ A collection of my professional certificates and course completions from LinkedI
 
 ## Verification
 
-Click on any certificate thumbnail to view the full-resolution image. For LinkedIn Learning certificates, you can verify the authenticity using the Certificate ID provided in the table (if applicable) or by visiting my LinkedIn profile.
+Click on any certificate thumbnail to view the full-resolution image. For LinkedIn Learning certificates, Microsoft , Infosys , Great Learning , Nikistian Private Ltd , Intellipaat , you can verify the authenticity using the Certificate ID provided in the table (if applicable) or by visiting my LinkedIn profile.
 
 ## Summary
 
@@ -34,13 +34,13 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
 | 15 | React | LinkedIn Learning | 2024 | 2 hours 1 minutes | React, Frontend | react | [View](Assets/My%20LinkedIn/React.png) |
 | 16 | Software Developer | LinkedIn Learning | 2024 | 31 hours 10 minutes | Software Development, Engineering | software-developer | [View](Assets/My%20LinkedIn/Software%20Developer.png) |
 | 17 | TypeScript | LinkedIn Learning | 2025 | 2 hours 15 minutes | TypeScript, JavaScript | typescript | [View](Assets/My%20LinkedIn/TypeScript.png) |
-| 18 | Hacking Course Completion Certificate | Nikistian Pri LTD | 2023 | 5 hours  | Hacking, Security | hacking-course-completion-certificate | [View](Assets/Others/Hacking%20Course%20Completion%20Certificate.pdf) |
+| 18 | Hacking Course Completion Certificate | Nikistian Private ltd | 2023 | 5 hours  | Hacking, Security | hacking-course-completion-certificate | [View](Assets/Others/Hacking%20Course%20Completion%20Certificate.pdf) |
 | 19 | IIT Internship | IIT - EdTech Society | 2025 | 4 Month | Internship | IIT-bombay-internship | [View](Assets/Others/IIT%20Internship%20.jpg) |
 | 20 | MYSQL | Intellipaat | 2023 | 15 hours 45 minutes | MySQL, Database | mysql | [View](Assets/Others/MYSQL.pdf) |
 | 21 | Python certificate | Infosys | 2024 | 3 hours 35 minutes | Multiprocessing in python | python-certificate | [View](Assets/Others/Python%20certificate.pdf) |
 | 22 | Python | Great Learning | 2024 | 4 hours 55 minutes | Python Fundamentals | python | [View](Assets/Others/Python.jpg) |
 | 23 | MERN Stack | Alison | 2025 | 16 hours 25 minutes | MERN Stack | mern-stack | [View](Assets/Others/MERN%20Stack.pdf) |
-| 24 | python 2 | Infosys | 2024 | 3 hours 40 minutes | Asynchronous Execution | python-2 | [View](Assets/Others/python%202.pdf) |
+| 24 | python 2 | Infosys | 2024 | 3 hours 40 minutes | Asynchronous Execution | python | [View](Assets/Others/python%202.pdf) |
 
 
 ## Gallery
