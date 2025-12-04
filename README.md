@@ -8,6 +8,8 @@ A collection of my professional certificates and course completions from LinkedI
 
 - **Email**: [sankettalekar896@gmail.com](mailto:sankettalekar896@gmail.com)
 - **LinkedIn**: [Sanket Talekar](https://www.linkedin.com/in/sanket-talekar-94087a263)
+- **Instagram**: [Sanket_Talekar_1717](https://www.instagram.com/sanket_talekar1717/)
+- **Portfolio**: [Sanket Talekar](https://sanketprogrammer.netlify.app/)
 
 ## Verification
 
