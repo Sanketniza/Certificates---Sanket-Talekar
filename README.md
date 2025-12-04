@@ -24,16 +24,16 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
 | 5 | Github Action by Github | LinkedIn Learning & Github | 2025 | 4 hours 12 minutes | GitHub Actions, CI/CD | github-action-by-github | [View](Assets/My%20LinkedIn/Github%20Action%20by%20Github.png) |
 | 6 | Introduction to AI | LinkedIn Learning | 2025 | 1 hours 34 minutes | AI, Machine Learning | introduction-to-ai | [View](Assets/My%20LinkedIn/Introduction%20to%20AI.png) |
 | 7 | JavaScript Essential Training | LinkedIn Learning | 2023 | 5 hours 40 minutes | JavaScript, Web Development | javascript-essential-training | [View](Assets/My%20LinkedIn/JavaScript%20Essential%20Training.png) |
-| 8 | Learning Full Stack JavaScript Development MongoDB Node and React | LinkedIn Learning | 2024 | 5 hours 40 minutes | MongoDB, Node.js, React | learning-full-stack-javascript-development-mongodb-node-and-react | [View](Assets/My%20LinkedIn/Learning%20Full%20Stack%20JavaScript%20Development%20MongoDB%20Node%20%20and%20React.png) |
-| 9 | Node.js Essential Training | LinkedIn Learning | 2024 | 5 hours 40 minutes | Node.js, Backend | node-js-essential-training | [View](Assets/My%20LinkedIn/Node.js%20Essential%20Training.png) |
-| 10 | Practical GitHub Action | LinkedIn Learning | 2024 | 5 hours 40 minutes | GitHub Actions, DevOps | practical-github-action | [View](Assets/My%20LinkedIn/Practical%20GitHub%20Action.png) |
-| 11 | Practical GitHub Copilot | LinkedIn Learning | 2024 | 5 hours 40 minutes | GitHub Copilot, AI Pair Programming | practical-github-copilot | [View](Assets/My%20LinkedIn/Practical%20GitHub%20Copilot.png) |
-| 12 | Practical GitHub Project Management and Collaboration | LinkedIn Learning | 2024 | 5 hours 40 minutes | GitHub, Project Management | practical-github-project-management-and-collaboration | [View](Assets/My%20LinkedIn/Practical%20GitHub%20Project%20Management%20and%20Collaboration.png) |
-| 13 | Project Management by Microsoft | LinkedIn Learning | 2024 | 5 hours 40 minutes | Project Management, Microsoft | project-management-by-microsoft | [View](Assets/My%20LinkedIn/Project%20Management%20by%20Microsoft.png) |
-| 14 | REST Full API | LinkedIn Learning | 2024 | 5 hours 40 minutes | REST API, Web Services | rest-full-api | [View](Assets/My%20LinkedIn/REST%20Full%20API.png) |
-| 15 | React | LinkedIn Learning | 2024 | 5 hours 40 minutes | React, Frontend | react | [View](Assets/My%20LinkedIn/React.png) |
-| 16 | Software Developer | LinkedIn Learning | 2024 | 5 hours 40 minutes | Software Development, Engineering | software-developer | [View](Assets/My%20LinkedIn/Software%20Developer.png) |
-| 17 | TypeScript | LinkedIn Learning | 2024 | 5 hours 40 minutes | TypeScript, JavaScript | typescript | [View](Assets/My%20LinkedIn/TypeScript.png) |
+| 8 | Learning Full Stack JavaScript Development MongoDB Node and React | LinkedIn Learning | 2024 | 3 hours 35 minutes | JavaScript, MongoDB, Node.js, React | learning-full-stack-javascript-development-mongodb-node-and-react | [View](Assets/My%20LinkedIn/Learning%20Full%20Stack%20JavaScript%20Development%20MongoDB%20Node%20%20and%20React.png) |
+| 9 | Node.js Essential Training | LinkedIn Learning | 2024 | 1 hours 20 minutes | Node.js, Backend | node-js-essential-training | [View](Assets/My%20LinkedIn/Node.js%20Essential%20Training.png) |
+| 10 | Practical GitHub Action | LinkedIn Learning | 2025 | 1 hours 19 minutes | GitHub Actions, DevOps | practical-github-action | [View](Assets/My%20LinkedIn/Practical%20GitHub%20Action.png) |
+| 11 | Practical GitHub Copilot | LinkedIn Learning | 2024 | 1 hours | Github, Github Copilot, AI Pair Programming | practical-github-copilot | [View](Assets/My%20LinkedIn/Practical%20GitHub%20Copilot.png) |
+| 12 | Practical GitHub Project Management and Collaboration | LinkedIn Learning | 2024 | 1 hours 18 minutes | GitHub, Project Management | practical-github-project-management-and-collaboration | [View](Assets/My%20LinkedIn/Practical%20GitHub%20Project%20Management%20and%20Collaboration.png) |
+| 13 | Project Management by Microsoft | LinkedIn Learning & Microsoft | 2024 | 14 hours 40 minutes | Project Management, Microsoft | project-management-by-microsoft | [View](Assets/My%20LinkedIn/Project%20Management%20by%20Microsoft.png) |
+| 14 | REST Full API | LinkedIn Learning | 2025 | 6 hours 15 minutes | REST API, Web Services | rest-full-api | [View](Assets/My%20LinkedIn/REST%20Full%20API.png) |
+| 15 | React | LinkedIn Learning | 2024 | 2 hours 1 minutes | React, Frontend | react | [View](Assets/My%20LinkedIn/React.png) |
+| 16 | Software Developer | LinkedIn Learning | 2024 | 31 hours 10 minutes | Software Development, Engineering | software-developer | [View](Assets/My%20LinkedIn/Software%20Developer.png) |
+| 17 | TypeScript | LinkedIn Learning | 2025 | 2 hours 15 minutes | TypeScript, JavaScript | typescript | [View](Assets/My%20LinkedIn/TypeScript.png) |
 | 18 | Hacking Course Completion Certificate | Other | Unknown | Unknown | Hacking, Security | hacking-course-completion-certificate | [View](Assets/Others/Hacking%20Course%20Completion%20Certificate.pdf) |
 | 19 | IIT Internship | IIT | 2025 | 5 hours 40 minutes | Internship | iit-internship | [View](Assets/Others/IIT%20Internship%20.jpg) |
 | 20 | MYSQL | Other | 2023 | 5 hours 40 minutes | MySQL, Database | mysql | [View](Assets/Others/MYSQL.pdf) |
