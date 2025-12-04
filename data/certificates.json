@@ -4,8 +4,11 @@
     "title": "CSS Essential Training",
     "provider": "LinkedIn Learning",
     "date": "2024",
-    "duration": "Unknown",
-    "skills": ["CSS", "Web Design"],
+    "duration": "5 hours 26 minutes",
+    "skills": [
+      "CSS",
+      "Web Design"
+    ],
     "filename": "Assets/My LinkedIn/CSS Essential Training.png"
   },
   {
@@ -13,8 +16,11 @@
     "title": "Copilot",
     "provider": "LinkedIn Learning",
     "date": "2024",
-    "duration": "Unknown",
-    "skills": ["AI", "Copilot"],
+    "duration": "35 minutes",
+    "skills": [
+      "AI",
+      "Copilot"
+    ],
     "filename": "Assets/My LinkedIn/Copilot.png"
   },
   {
@@ -23,43 +29,58 @@
     "provider": "LinkedIn Learning",
     "date": "2024",
     "duration": "29 hours 53 minutes",
-    "skills": ["Full Stack", "Web Development"],
+    "skills": [
+      "Full Stack",
+      "Web Development"
+    ],
     "filename": "Assets/My LinkedIn/Full Stack Web Developer.png"
   },
   {
     "id": "gen-ai",
     "title": "Gen AI",
-    "provider": "LinkedIn Learning",
-    "date": "2024",
-    "duration": "Unknown",
-    "skills": ["Generative AI", "Artificial Intelligence"],
+    "provider": "LinkedIn Learning & Microsoft",
+    "date": "2025",
+    "duration": "4 hours 12 minutes",
+    "skills": [
+      "Generative AI",
+      "Artificial Intelligence"
+    ],
     "filename": "Assets/My LinkedIn/Gen AI.png"
   },
   {
     "id": "github-action-by-github",
     "title": "Github Action by Github",
-    "provider": "LinkedIn Learning",
-    "date": "2024",
-    "duration": "Unknown",
-    "skills": ["GitHub Actions", "CI/CD"],
+    "provider": "LinkedIn Learning & Github",
+    "date": "2025",
+    "duration": "4 hours 12 minutes",
+    "skills": [
+      "GitHub Actions",
+      "CI/CD"
+    ],
     "filename": "Assets/My LinkedIn/Github Action by Github.png"
   },
   {
     "id": "introduction-to-ai",
     "title": "Introduction to AI",
     "provider": "LinkedIn Learning",
-    "date": "2024",
-    "duration": "Unknown",
-    "skills": ["AI", "Machine Learning"],
+    "date": "2025",
+    "duration": "1 hours 34 minutes",
+    "skills": [
+      "AI",
+      "Machine Learning"
+    ],
     "filename": "Assets/My LinkedIn/Introduction to AI.png"
   },
   {
     "id": "javascript-essential-training",
     "title": "JavaScript Essential Training",
     "provider": "LinkedIn Learning",
-    "date": "2024",
-    "duration": "Unknown",
-    "skills": ["JavaScript", "Web Development"],
+    "date": "2023",
+    "duration": "5 hours 40 minutes",
+    "skills": [
+      "JavaScript",
+      "Web Development"
+    ],
     "filename": "Assets/My LinkedIn/JavaScript Essential Training.png"
   },
   {
@@ -67,8 +88,12 @@
     "title": "Learning Full Stack JavaScript Development MongoDB Node and React",
     "provider": "LinkedIn Learning",
     "date": "2024",
-    "duration": "Unknown",
-    "skills": ["MongoDB", "Node.js", "React"],
+    "duration": "3 hours 35 minutes",
+    "skills": [
+      "MongoDB",
+      "Node.js",
+      "React"
+    ],
     "filename": "Assets/My LinkedIn/Learning Full Stack JavaScript Development MongoDB Node  and React.png"
   },
   {
@@ -76,17 +101,23 @@
     "title": "Node.js Essential Training",
     "provider": "LinkedIn Learning",
     "date": "2024",
-    "duration": "Unknown",
-    "skills": ["Node.js", "Backend"],
+    "duration": "1 hours 20 minutes",
+    "skills": [
+      "Node.js",
+      "Backend"
+    ],
     "filename": "Assets/My LinkedIn/Node.js Essential Training.png"
   },
   {
     "id": "practical-github-action",
     "title": "Practical GitHub Action",
     "provider": "LinkedIn Learning",
-    "date": "2024",
-    "duration": "Unknown",
-    "skills": ["GitHub Actions", "DevOps"],
+    "date": "2025",
+    "duration": "1 hours 19 minutes",
+    "skills": [
+      "GitHub Actions",
+      "DevOps"
+    ],
     "filename": "Assets/My LinkedIn/Practical GitHub Action.png"
   },
   {
@@ -94,8 +125,11 @@
     "title": "Practical GitHub Copilot",
     "provider": "LinkedIn Learning",
     "date": "2024",
-    "duration": "Unknown",
-    "skills": ["GitHub Copilot", "AI Pair Programming"],
+    "duration": "1 hours",
+    "skills": [
+      "GitHub Copilot",
+      "AI Pair Programming"
+    ],
     "filename": "Assets/My LinkedIn/Practical GitHub Copilot.png"
   },
   {
@@ -103,26 +137,35 @@
     "title": "Practical GitHub Project Management and Collaboration",
     "provider": "LinkedIn Learning",
     "date": "2024",
-    "duration": "Unknown",
-    "skills": ["GitHub", "Project Management"],
+    "duration": "1 hours 18 minutes",
+    "skills": [
+      "GitHub",
+      "Project Management"
+    ],
     "filename": "Assets/My LinkedIn/Practical GitHub Project Management and Collaboration.png"
   },
   {
     "id": "project-management-by-microsoft",
     "title": "Project Management by Microsoft",
-    "provider": "LinkedIn Learning",
+    "provider": "LinkedIn Learning & Microsoft",
     "date": "2024",
-    "duration": "Unknown",
-    "skills": ["Project Management", "Microsoft"],
+    "duration": "14 hours 40 minutes",
+    "skills": [
+      "Project Management",
+      "Microsoft"
+    ],
     "filename": "Assets/My LinkedIn/Project Management by Microsoft.png"
   },
   {
     "id": "rest-full-api",
     "title": "REST Full API",
     "provider": "LinkedIn Learning",
-    "date": "2024",
-    "duration": "Unknown",
-    "skills": ["REST API", "Web Services"],
+    "date": "2025",
+    "duration": "6 hours 15 minutes",
+    "skills": [
+      "REST API",
+      "Web Services"
+    ],
     "filename": "Assets/My LinkedIn/REST Full API.png"
   },
   {
@@ -130,8 +173,11 @@
     "title": "React",
     "provider": "LinkedIn Learning",
     "date": "2024",
-    "duration": "Unknown",
-    "skills": ["React", "Frontend"],
+    "duration": "2 hours 1 minutes",
+    "skills": [
+      "React",
+      "Frontend"
+    ],
     "filename": "Assets/My LinkedIn/React.png"
   },
   {
@@ -139,80 +185,102 @@
     "title": "Software Developer",
     "provider": "LinkedIn Learning",
     "date": "2024",
-    "duration": "Unknown",
-    "skills": ["Software Development", "Engineering"],
+    "duration": "31 hours 10 minutes",
+    "skills": [
+      "Software Development",
+      "Engineering"
+    ],
     "filename": "Assets/My LinkedIn/Software Developer.png"
   },
   {
     "id": "typescript",
     "title": "TypeScript",
     "provider": "LinkedIn Learning",
-    "date": "2024",
-    "duration": "Unknown",
-    "skills": ["TypeScript", "JavaScript"],
+    "date": "2025",
+    "duration": "2 hours 15 minutes",
+    "skills": [
+      "TypeScript",
+      "JavaScript"
+    ],
     "filename": "Assets/My LinkedIn/TypeScript.png"
   },
   {
     "id": "hacking-course-completion-certificate",
     "title": "Hacking Course Completion Certificate",
-    "provider": "Other",
-    "date": "Unknown",
-    "duration": "Unknown",
-    "skills": ["Hacking", "Security"],
+    "provider": "Nikistian Private ltd",
+    "date": "2023",
+    "duration": "5 hours",
+    "skills": [
+      "Hacking",
+      "Security"
+    ],
     "filename": "Assets/Others/Hacking Course Completion Certificate.pdf"
   },
   {
-    "id": "iit-internship",
+    "id": "IIT-bombay-internship",
     "title": "IIT Internship",
-    "provider": "IIT",
-    "date": "Unknown",
-    "duration": "Unknown",
-    "skills": ["Internship"],
+    "provider": "IIT - EdTech Society",
+    "date": "2025",
+    "duration": "4 Month",
+    "skills": [
+      "Internship"
+    ],
     "filename": "Assets/Others/IIT Internship .jpg"
   },
   {
     "id": "mysql",
     "title": "MYSQL",
-    "provider": "Other",
-    "date": "Unknown",
-    "duration": "Unknown",
-    "skills": ["MySQL", "Database"],
+    "provider": "Intellipaat",
+    "date": "2023",
+    "duration": "15 hours 45 minutes",
+    "skills": [
+      "MySQL",
+      "Database"
+    ],
     "filename": "Assets/Others/MYSQL.pdf"
   },
   {
     "id": "python-certificate",
     "title": "Python certificate",
-    "provider": "Other",
-    "date": "Unknown",
-    "duration": "Unknown",
-    "skills": ["Python"],
+    "provider": "Infosys",
+    "date": "2024",
+    "duration": "3 hours 35 minutes",
+    "skills": [
+      "Multiprocessing in python"
+    ],
     "filename": "Assets/Others/Python certificate.pdf"
   },
   {
     "id": "python",
     "title": "Python",
-    "provider": "Other",
-    "date": "Unknown",
-    "duration": "Unknown",
-    "skills": ["Python"],
+    "provider": "Great Learning",
+    "date": "2024",
+    "duration": "4 hours 55 minutes",
+    "skills": [
+      "Python Fundamentals"
+    ],
     "filename": "Assets/Others/Python.jpg"
   },
   {
-    "id": "react-other",
-    "title": "React (Other)",
-    "provider": "Other",
-    "date": "Unknown",
-    "duration": "Unknown",
-    "skills": ["React"],
-    "filename": "Assets/Others/React.pdf"
+    "id": "mern-stack",
+    "title": "MERN Stack",
+    "provider": "Alison",
+    "date": "2025",
+    "duration": "16 hours 25 minutes",
+    "skills": [
+      "MERN Stack"
+    ],
+    "filename": "Assets/Others/MERN Stack.pdf"
   },
   {
     "id": "python-2",
     "title": "python 2",
-    "provider": "Other",
-    "date": "Unknown",
-    "duration": "Unknown",
-    "skills": ["Python"],
+    "provider": "Infosys",
+    "date": "2024",
+    "duration": "3 hours 40 minutes",
+    "skills": [
+      "Asynchronous Execution"
+    ],
     "filename": "Assets/Others/python 2.pdf"
   }
 ]

@@ -45,27 +45,155 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
 
 ## Gallery
 
-<div align="center">
-<a href="Assets/My LinkedIn/CSS Essential Training.png"><img src="assets/thumbnails/CSS Essential Training.png" alt="Certificate: CSS Essential Training — Sanket Talekar — 2024" width="200" style="margin: 10px;"></a>
-<a href="Assets/My LinkedIn/Copilot.png"><img src="assets/thumbnails/Copilot.png" alt="Certificate: Copilot — Sanket Talekar — 2024" width="200" style="margin: 10px;"></a>
-<a href="Assets/My LinkedIn/Full Stack Web Developer.png"><img src="assets/thumbnails/Full Stack Web Developer.png" alt="Certificate: Full Stack Web Developer — Sanket Talekar — 2024" width="200" style="margin: 10px;"></a>
-<a href="Assets/My LinkedIn/Gen AI.png"><img src="assets/thumbnails/Gen AI.png" alt="Certificate: Gen AI — Sanket Talekar — 2024" width="200" style="margin: 10px;"></a>
-<a href="Assets/My LinkedIn/Github Action by Github.png"><img src="assets/thumbnails/Github Action by Github.png" alt="Certificate: Github Action by Github — Sanket Talekar — 2024" width="200" style="margin: 10px;"></a>
-<a href="Assets/My LinkedIn/Introduction to AI.png"><img src="assets/thumbnails/Introduction to AI.png" alt="Certificate: Introduction to AI — Sanket Talekar — 2024" width="200" style="margin: 10px;"></a>
-<a href="Assets/My LinkedIn/JavaScript Essential Training.png"><img src="assets/thumbnails/JavaScript Essential Training.png" alt="Certificate: JavaScript Essential Training — Sanket Talekar — 2024" width="200" style="margin: 10px;"></a>
-<a href="Assets/My LinkedIn/Learning Full Stack JavaScript Development MongoDB Node  and React.png"><img src="assets/thumbnails/Learning Full Stack JavaScript Development MongoDB Node  and React.png" alt="Certificate: Learning Full Stack JavaScript Development MongoDB Node and React — Sanket Talekar — 2024" width="200" style="margin: 10px;"></a>
-<a href="Assets/My LinkedIn/Node.js Essential Training.png"><img src="assets/thumbnails/Node.js Essential Training.png" alt="Certificate: Node.js Essential Training — Sanket Talekar — 2024" width="200" style="margin: 10px;"></a>
-<a href="Assets/My LinkedIn/Practical GitHub Action.png"><img src="assets/thumbnails/Practical GitHub Action.png" alt="Certificate: Practical GitHub Action — Sanket Talekar — 2024" width="200" style="margin: 10px;"></a>
-<a href="Assets/My LinkedIn/Practical GitHub Copilot.png"><img src="assets/thumbnails/Practical GitHub Copilot.png" alt="Certificate: Practical GitHub Copilot — Sanket Talekar — 2024" width="200" style="margin: 10px;"></a>
-<a href="Assets/My LinkedIn/Practical GitHub Project Management and Collaboration.png"><img src="assets/thumbnails/Practical GitHub Project Management and Collaboration.png" alt="Certificate: Practical GitHub Project Management and Collaboration — Sanket Talekar — 2024" width="200" style="margin: 10px;"></a>
-<a href="Assets/My LinkedIn/Project Management by Microsoft.png"><img src="assets/thumbnails/Project Management by Microsoft.png" alt="Certificate: Project Management by Microsoft — Sanket Talekar — 2024" width="200" style="margin: 10px;"></a>
-<a href="Assets/My LinkedIn/REST Full API.png"><img src="assets/thumbnails/REST Full API.png" alt="Certificate: REST Full API — Sanket Talekar — 2024" width="200" style="margin: 10px;"></a>
-<a href="Assets/My LinkedIn/React.png"><img src="assets/thumbnails/React.png" alt="Certificate: React — Sanket Talekar — 2024" width="200" style="margin: 10px;"></a>
-<a href="Assets/My LinkedIn/Software Developer.png"><img src="assets/thumbnails/Software Developer.png" alt="Certificate: Software Developer — Sanket Talekar — 2024" width="200" style="margin: 10px;"></a>
-<a href="Assets/My LinkedIn/TypeScript.png"><img src="assets/thumbnails/TypeScript.png" alt="Certificate: TypeScript — Sanket Talekar — 2024" width="200" style="margin: 10px;"></a>
-<a href="Assets/Others/IIT Internship .jpg"><img src="assets/thumbnails/IIT Internship .jpg" alt="Certificate: IIT Internship — Sanket Talekar — Unknown" width="200" style="margin: 10px;"></a>
-<a href="Assets/Others/Python.jpg"><img src="assets/thumbnails/Python.jpg" alt="Certificate: Python — Sanket Talekar — Unknown" width="200" style="margin: 10px;"></a>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <a href="Assets/My LinkedIn/CSS Essential Training.png">
+        <img src="Assets/thumbnails/CSS Essential Training.png" width="250" alt="CSS Essential Training">
+      </a>
+      <br>
+      <b>CSS Essential Training</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Copilot.png">
+        <img src="Assets/thumbnails/Copilot.png" width="250" alt="Copilot">
+      </a>
+      <br>
+      <b>Copilot</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Full Stack Web Developer.png">
+        <img src="Assets/thumbnails/Full Stack Web Developer.png" width="250" alt="Full Stack Web Developer">
+      </a>
+      <br>
+      <b>Full Stack Web Developer</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Gen AI.png">
+        <img src="Assets/thumbnails/Gen AI.png" width="250" alt="Gen AI">
+      </a>
+      <br>
+      <b>Gen AI</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Github Action by Github.png">
+        <img src="Assets/thumbnails/Github Action by Github.png" width="250" alt="Github Action by Github">
+      </a>
+      <br>
+      <b>Github Action by Github</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Introduction to AI.png">
+        <img src="Assets/thumbnails/Introduction to AI.png" width="250" alt="Introduction to AI">
+      </a>
+      <br>
+      <b>Introduction to AI</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Assets/My LinkedIn/JavaScript Essential Training.png">
+        <img src="Assets/thumbnails/JavaScript Essential Training.png" width="250" alt="JavaScript Essential Training">
+      </a>
+      <br>
+      <b>JavaScript Essential Training</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Learning Full Stack JavaScript Development MongoDB Node  and React.png">
+        <img src="Assets/thumbnails/Learning Full Stack JavaScript Development MongoDB Node  and React.png" width="250" alt="Learning Full Stack JavaScript Development">
+      </a>
+      <br>
+      <b>Learning Full Stack JavaScript Development</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Node.js Essential Training.png">
+        <img src="Assets/thumbnails/Node.js Essential Training.png" width="250" alt="Node.js Essential Training">
+      </a>
+      <br>
+      <b>Node.js Essential Training</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Practical GitHub Action.png">
+        <img src="Assets/thumbnails/Practical GitHub Action.png" width="250" alt="Practical GitHub Action">
+      </a>
+      <br>
+      <b>Practical GitHub Action</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Practical GitHub Copilot.png">
+        <img src="Assets/thumbnails/Practical GitHub Copilot.png" width="250" alt="Practical GitHub Copilot">
+      </a>
+      <br>
+      <b>Practical GitHub Copilot</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Practical GitHub Project Management and Collaboration.png">
+        <img src="Assets/thumbnails/Practical GitHub Project Management and Collaboration.png" width="250" alt="Practical GitHub Project Management">
+      </a>
+      <br>
+      <b>Practical GitHub Project Management</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Project Management by Microsoft.png">
+        <img src="Assets/thumbnails/Project Management by Microsoft.png" width="250" alt="Project Management by Microsoft">
+      </a>
+      <br>
+      <b>Project Management by Microsoft</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/REST Full API.png">
+        <img src="Assets/thumbnails/REST Full API.png" width="250" alt="REST Full API">
+      </a>
+      <br>
+      <b>REST Full API</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/React.png">
+        <img src="Assets/thumbnails/React.png" width="250" alt="React">
+      </a>
+      <br>
+      <b>React</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Assets/My LinkedIn/Software Developer.png">
+        <img src="Assets/thumbnails/Software Developer.png" width="250" alt="Software Developer">
+      </a>
+      <br>
+      <b>Software Developer</b>
+    </td>
+    <td align="center">
+      <a href="Assets/My LinkedIn/TypeScript.png">
+        <img src="Assets/thumbnails/TypeScript.png" width="250" alt="TypeScript">
+      </a>
+      <br>
+      <b>TypeScript</b>
+    </td>
+    <td align="center">
+      <a href="Assets/Others/IIT Internship .jpg">
+        <img src="Assets/thumbnails/IIT Internship .jpg" width="250" alt="IIT Internship">
+      </a>
+      <br>
+      <b>IIT Internship</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="Assets/Others/Python.jpg">
+        <img src="Assets/thumbnails/Python.jpg" width="250" alt="Python">
+      </a>
+      <br>
+      <b>Python</b>
+    </td>
+  </tr>
+</table>
 
 ## How this repo is generated
 
