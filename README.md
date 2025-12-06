@@ -43,6 +43,7 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
 | 22 | Python | Great Learning | 2024 | 4 hours 55 minutes | Python Fundamentals | python | [View](Assets/Others/Python.jpg) |
 | 23 | MERN Stack | Alison | 2025 | 16 hours 25 minutes | MERN Stack | mern-stack | [View](Assets/Others/MERN%20Stack.pdf) |
 | 24 | python 2 | Infosys | 2024 | 3 hours 40 minutes | Asynchronous Execution | python | [View](Assets/Others/python%202.pdf) |
+| 25 | Oracle Gen AI | Oracle | 2025 | 43 hours 54 minutes | Generative AI, AI Professional | oracle-gen-ai | [View](Assets/Others/Oracal%20Gen%20Ai.jpg) |
 
 
 ## Gallery
@@ -186,7 +187,6 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
       <b>IIT Internship</b>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <a href="Assets/Others/Python.jpg">
@@ -196,8 +196,6 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
       <b>Python</b>
     </td>
   </tr>
-
-  <!-- -------------------------------- -->
   <tr>
     <td align="center">
       <a href="Assets/Others/Oracal Gen Ai.jpg">
@@ -207,7 +205,6 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
       <b>Oracal Gen Ai</b>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <a href="Assets/Others/MYSQL.jpg">
@@ -217,7 +214,6 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
       <b>MYSQL</b>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <a href="Assets/Others/Hacking.png">
@@ -227,7 +223,6 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
       <b>Ethical Hacking</b>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <a href="Assets/Others/Python Asyc.jpg">
@@ -237,7 +232,6 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
       <b>python</b>
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <a href="Assets/Others/Python Multi.jpg">
@@ -247,7 +241,6 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
       <b>Python</b>
     </td>
   </tr>
-
 </table>
 
 ## How this repo is generated

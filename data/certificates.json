@@ -282,5 +282,16 @@
       "Asynchronous Execution"
     ],
     "filename": "Assets/Others/python 2.pdf"
+  },
+  {
+    "id": "oracle-gen-ai",
+    "title": "Oracle Gen AI",
+    "provider": "Oracle",
+    "date": "2025",
+    "duration": "3 hours 40 minutes",
+    "skills": [
+      "Asynchronous Execution"
+    ],
+    "filename": "Assets/Others/Oracle Gen Ai.jpg"
   }
 ]
