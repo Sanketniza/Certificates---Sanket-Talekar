@@ -233,6 +233,7 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
       <b>Python (MultiProcessing)</b>
     </td>
   </tr>
+  <tr>
     <td align="center">
       <a href="Assets/Others/Mern stack.jpg">
         <img src="Assets/thumbnails/image.png" width="250" alt="MERN Stack">
@@ -240,12 +241,19 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
       <br>
       <b>MERN Stack</b>
     </td>
+  </tr>
 </table>
 
-## How this repo is generated
+## 🚀 About Me & Connect
 
-This repository is automatically generated using a Python script.
+Hi there! I'm **Sanket Talekar**, a passionate developer always eager to learn and explore new technologies. I love building full-stack applications and diving deep into AI and Data Science. 🌟
 
-- **Data Source**: `data/certificates.json`
-- **Script**: `scripts/generate_readme.py`
-- **Thumbnails**: Generated using Pillow (PIL)
+Feel free to check out my resume and connect with me!
+
+<div align="center">
+  <a href="Assets/Others/SanketTalekar_Resume.jpg">
+    <img src="Assets/Others/SanketTalekar_Resume.jpg" width="600" alt="Sanket Talekar Resume">
+  </a>
+</div>
+
+Thank you for visiting my certification portfolio! ❤️ Happy Coding! 💻✨
