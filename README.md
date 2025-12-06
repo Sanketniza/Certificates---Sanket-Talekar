@@ -210,8 +210,8 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
 
   <tr>
     <td align="center">
-      <a href="Assets/Others/MYSQL.pdf">
-        <img src="Assets/thumbnails/MYSQL.pdf" width="250" alt="MYSQL">
+      <a href="Assets/Others/MYSQL.jpg">
+        <img src="Assets/thumbnails/MYSQL.jpg" width="250" alt="MYSQL">
       </a>
       <br>
       <b>MYSQL</b>
@@ -230,8 +230,8 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
 
   <tr>
     <td align="center">
-      <a href="Assets/Others/python 2.pdf">
-        <img src="Assets/thumbnails/python 2.pdf" width="250" alt="python 2">
+      <a href="Assets/Others/Python Asyc.jpg">
+        <img src="Assets/thumbnails/Python Asyc.jpg" width="250" alt="python 2">
       </a>
       <br>
       <b>python</b>
@@ -240,8 +240,8 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
 
   <tr>
     <td align="center">
-      <a href="Assets/Others/Python.jpg">
-        <img src="Assets/thumbnails/Python.jpg" width="250" alt="Python">
+      <a href="Assets/Others/Python Multi.jpg">
+        <img src="Assets/thumbnails/Python Multi.jpg" width="250" alt="Python">
       </a>
       <br>
       <b>Python</b>
