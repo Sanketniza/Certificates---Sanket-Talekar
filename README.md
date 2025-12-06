@@ -220,17 +220,24 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
     </td>
     <td align="center">
       <a href="Assets/Others/Python Asyc.jpg">
-        <img src="Assets/thumbnails/Python Asyc.jpg" width="250" alt="Python (Async)">
+        <img src="Assets/thumbnails/Python Asyc.jpg" width="250" alt="Python (Asynchronous Execution)">
       </a>
       <br>
-      <b>Python (Async)</b>
+      <b>Python (Asynchronous Execution)</b>
     </td>
     <td align="center">
       <a href="Assets/Others/Python Multi.jpg">
-        <img src="Assets/thumbnails/Python Multi.jpg" width="250" alt="Python (Multi)">
+        <img src="Assets/thumbnails/Python Multi.jpg" width="250" alt="Python (Multi Processing)">
       </a>
       <br>
-      <b>Python (Multi)</b>
+      <b>Python (MultiProcessing)</b>
+    </td>
+    <td align="center">
+      <a href="Assets/Others/Mern stack.jpg">
+        <img src="Assets/thumbnails/Mern stack.jpg" width="250" alt="MERN Stack">
+      </a>
+      <br>
+      <b>MERN Stack</b>
     </td>
   </tr>
 </table>
