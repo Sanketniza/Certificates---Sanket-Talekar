@@ -196,8 +196,8 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
       <b>Python</b>
     </td>
     <td align="center">
-      <a href="Assets/Others/Oracal Gen Ai.jpg">
-        <img src="Assets/thumbnails/Oracal Gen Ai.jpg" width="250" alt="Oracle Gen AI">
+      <a href="Assets/Others/Oracle Gen Ai.png">
+        <img src="Assets/thumbnails/Oracle Gen Ai.png" width="250" alt="Oracle Gen AI">
       </a>
       <br>
       <b>Oracle Gen AI</b>
