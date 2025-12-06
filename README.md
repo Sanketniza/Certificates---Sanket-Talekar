@@ -210,31 +210,31 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
 
   <tr>
     <td align="center">
-      <a href="Assets/Others/Python.jpg">
-        <img src="Assets/thumbnails/Python.jpg" width="250" alt="Python">
+      <a href="Assets/Others/MYSQL.pdf">
+        <img src="Assets/thumbnails/MYSQL.pdf" width="250" alt="MYSQL">
       </a>
       <br>
-      <b>Python</b>
+      <b>MYSQL</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <a href="Assets/Others/Python.jpg">
-        <img src="Assets/thumbnails/Python.jpg" width="250" alt="Python">
+      <a href="Assets/Others/Hacking.png">
+        <img src="Assets/thumbnails/Hacking.png" width="250" alt="Hacking">
       </a>
       <br>
-      <b>Python</b>
+      <b>Ethical Hacking</b>
     </td>
   </tr>
 
   <tr>
     <td align="center">
-      <a href="Assets/Others/Python.jpg">
-        <img src="Assets/thumbnails/Python.jpg" width="250" alt="Python">
+      <a href="Assets/Others/python 2.pdf">
+        <img src="Assets/thumbnails/python 2.pdf" width="250" alt="python 2">
       </a>
       <br>
-      <b>Python</b>
+      <b>python</b>
     </td>
   </tr>
 
