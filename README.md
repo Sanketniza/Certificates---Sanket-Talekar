@@ -186,6 +186,7 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
       <b>IIT Internship</b>
     </td>
   </tr>
+
   <tr>
     <td align="center">
       <a href="Assets/Others/Python.jpg">
@@ -195,6 +196,58 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
       <b>Python</b>
     </td>
   </tr>
+
+  <!-- -------------------------------- -->
+  <tr>
+    <td align="center">
+      <a href="Assets/Others/Oracal Gen Ai.jpg">
+        <img src="Assets/thumbnails/Oracal Gen Ai.jpg" width="250" alt="Oracal Gen Ai">
+      </a>
+      <br>
+      <b>Oracal Gen Ai</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="Assets/Others/Python.jpg">
+        <img src="Assets/thumbnails/Python.jpg" width="250" alt="Python">
+      </a>
+      <br>
+      <b>Python</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="Assets/Others/Python.jpg">
+        <img src="Assets/thumbnails/Python.jpg" width="250" alt="Python">
+      </a>
+      <br>
+      <b>Python</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="Assets/Others/Python.jpg">
+        <img src="Assets/thumbnails/Python.jpg" width="250" alt="Python">
+      </a>
+      <br>
+      <b>Python</b>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="Assets/Others/Python.jpg">
+        <img src="Assets/thumbnails/Python.jpg" width="250" alt="Python">
+      </a>
+      <br>
+      <b>Python</b>
+    </td>
+  </tr>
+
 </table>
 
 ## How this repo is generated
