@@ -41,7 +41,7 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
 | 20 | MYSQL | Intellipaat | 2023 | 15 hours 45 minutes | MySQL, Database | mysql | [View](Assets/Others/MYSQL.pdf) |
 | 21 | Python certificate | Infosys | 2024 | 3 hours 35 minutes | Multiprocessing in python | python-certificate | [View](Assets/Others/Python%20certificate.pdf) |
 | 22 | Python | Great Learning | 2024 | 4 hours 55 minutes | Python Fundamentals | python | [View](Assets/Others/Python.jpg) |
-| 23 | MERN Stack | Alison | 2025 | 16 hours 25 minutes | MERN Stack | mern-stack | [View](Assets/Others/MERN%20Stack.pdf) |
+| 23 | MERN Stack | Alison | 2025 | 16 hours 25 minutes | MERN Stack | mern-stack | [View](Assets/Others/Mern%20stack.jpg) |
 | 24 | python 2 | Infosys | 2024 | 3 hours 40 minutes | Asynchronous Execution | python | [View](Assets/Others/python%202.pdf) |
 | 25 | Oracle Gen AI | Oracle | 2025 | 43 hours 54 minutes | Generative AI, AI Professional | oracle-gen-ai | [View](Assets/Others/Oracal%20Gen%20Ai.jpg) |
 
@@ -232,14 +232,14 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
       <br>
       <b>Python (MultiProcessing)</b>
     </td>
+  </tr>
     <td align="center">
       <a href="Assets/Others/Mern stack.jpg">
-        <img src="Assets/thumbnails/Mern stack.jpg" width="250" alt="MERN Stack">
+        <img src="Assets/thumbnails/image.png" width="250" alt="MERN Stack">
       </a>
       <br>
       <b>MERN Stack</b>
     </td>
-  </tr>
 </table>
 
 ## How this repo is generated
