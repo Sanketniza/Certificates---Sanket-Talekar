@@ -195,17 +195,13 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
       <br>
       <b>Python</b>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="Assets/Others/Oracal Gen Ai.jpg">
-        <img src="Assets/thumbnails/Oracal Gen Ai.jpg" width="250" alt="Oracal Gen Ai">
+        <img src="Assets/thumbnails/Oracal Gen Ai.jpg" width="250" alt="Oracle Gen AI">
       </a>
       <br>
-      <b>Oracal Gen Ai</b>
+      <b>Oracle Gen AI</b>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="Assets/Others/MYSQL.jpg">
         <img src="Assets/thumbnails/MYSQL.jpg" width="250" alt="MYSQL">
@@ -217,28 +213,24 @@ Click on any certificate thumbnail to view the full-resolution image. For Linked
   <tr>
     <td align="center">
       <a href="Assets/Others/Hacking.png">
-        <img src="Assets/thumbnails/Hacking.png" width="250" alt="Hacking">
+        <img src="Assets/thumbnails/Hacking.png" width="250" alt="Ethical Hacking">
       </a>
       <br>
       <b>Ethical Hacking</b>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="Assets/Others/Python Asyc.jpg">
-        <img src="Assets/thumbnails/Python Asyc.jpg" width="250" alt="python 2">
+        <img src="Assets/thumbnails/Python Asyc.jpg" width="250" alt="Python (Async)">
       </a>
       <br>
-      <b>python</b>
+      <b>Python (Async)</b>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <a href="Assets/Others/Python Multi.jpg">
-        <img src="Assets/thumbnails/Python Multi.jpg" width="250" alt="Python">
+        <img src="Assets/thumbnails/Python Multi.jpg" width="250" alt="Python (Multi)">
       </a>
       <br>
-      <b>Python</b>
+      <b>Python (Multi)</b>
     </td>
   </tr>
 </table>

@@ -214,7 +214,7 @@
       "Hacking",
       "Security"
     ],
-    "filename": "Assets/Others/Hacking Course Completion Certificate.pdf"
+    "filename": "Assets/Others/Hacking.png"
   },
   {
     "id": "IIT-bombay-internship",
@@ -237,7 +237,7 @@
       "MySQL",
       "Database"
     ],
-    "filename": "Assets/Others/MYSQL.pdf"
+    "filename": "Assets/Others/MYSQL.jpg"
   },
   {
     "id": "python-certificate",
@@ -248,7 +248,7 @@
     "skills": [
       "Multiprocessing in python"
     ],
-    "filename": "Assets/Others/Python certificate.pdf"
+    "filename": "Assets/Others/Python Multi.jpg"
   },
   {
     "id": "python",
@@ -281,17 +281,18 @@
     "skills": [
       "Asynchronous Execution"
     ],
-    "filename": "Assets/Others/python 2.pdf"
+    "filename": "Assets/Others/Python Asyc.jpg"
   },
   {
     "id": "oracle-gen-ai",
     "title": "Oracle Gen AI",
     "provider": "Oracle",
     "date": "2025",
-    "duration": "3 hours 40 minutes",
+    "duration": "43 hours 54 minutes",
     "skills": [
-      "Asynchronous Execution"
+      "Generative AI",
+      "AI Professional"
     ],
-    "filename": "Assets/Others/Oracle Gen Ai.jpg"
+    "filename": "Assets/Others/Oracal Gen Ai.jpg"
   }
 ]
